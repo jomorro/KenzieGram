@@ -1,0 +1,16 @@
+h1 {
+  color: lightcoral;
+  border: 2px solid black;
+  width: 25%;
+  text-align: center;
+}
+
+section {
+  border: 2px solid black;
+  padding: 10px;
+  width: 25%;
+}
+
+form {
+  display: inline-block;
+}
