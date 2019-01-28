@@ -35,5 +35,5 @@ app.post("/uploads/", upload.single("myImage"), (req, res) => {
 });
 
 app.listen(port, function() {
-  console.log("I am working");
+  console.log(`"I am working on port" ${port}`);
 });
